@@ -1,4 +1,4 @@
-# Swiss Trade & Supply Chain Analytics
+# Swiss Trade Insights
 
 An end-to-end data analytics project using official Swiss foreign trade data to explore import and export trends, trading partners, product categories, and geographic trade concentration.
 
