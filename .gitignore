@@ -1,0 +1,15 @@
+# Azure credentials
+.env
+.env.*
+!.env.example
+
+# Downloaded source data
+data/raw/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Python virtual environments
+.venv/
+venv/
